@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  .container {
+      padding: 10px;
+  }
+
+  .form-group input,
+  .form-group textarea,
+  .form-group select {
+      font-size: 14px;
+  }
+
+  .list-group-item {
+      padding: 10px;
+  }
+}

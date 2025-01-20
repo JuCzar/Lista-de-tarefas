@@ -1,0 +1,29 @@
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de configuração do editor (ex: VSCode)
+.vscode/
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de build e cache
+build/
+.cache/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos do NPM
+package-lock.json
+yarn.lock
+
+# Arquivos de testes de snapshot
+coverage/
+
+# Arquivos de configuração do Babel
+.babelrc
